@@ -1,0 +1,7 @@
+Feature: Login
+  @Feature=login
+  Scenario: Login as a valid user
+
+    Given User at home page
+    When User click login button
+    
