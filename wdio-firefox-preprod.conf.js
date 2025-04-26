@@ -216,8 +216,8 @@ exports.config = {
     //       {
     //         slackOptions: {
     //           type: 'web-api',
-    //           channel: process.env.SLACK_CHANNEL || 'C05SQ64LN1L',
-    //           slackBotToken: process.env.SLACK_BOT_TOKEN || 'xoxb-4443695408998-5914883496530-g7VtxwbDVXa0Wom1REwYvYsj',
+    //           channel: process.env.SLACK_CHANNEL || '',
+    //           slackBotToken: process.env.SLACK_BOT_TOKEN || '',
     //         },
     //       }
     //     ],
