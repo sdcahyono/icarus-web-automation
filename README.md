@@ -5,5 +5,7 @@ npm update
 
 run the test with the following command<br>
 npm run test
+npm run test --feature=./features/checkout-shipping/shippingAddAddress.feature
+npm run test --suite login
 
 the report will be created under results directory
